@@ -7,8 +7,8 @@ Faça um programa que peça um número e então mostre a mensagem
 
 */
 
-$numero = 5;
+$numero = readline("Digite um número: ");
 
-echo $numero;
+echo "O número digitado foi ".$numero;
 
 ?>
