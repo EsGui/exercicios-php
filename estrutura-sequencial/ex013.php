@@ -17,6 +17,6 @@ $mega_bytes = $arquivo * 1024;
 $kilo_bytes = $arquivo * 1024 * 2;
 
 echo "Conversão Megabytes = ".$mega_bytes."\n";
-echo "Conversão Kilobytes = ".$kilo_bytes."\n"
+echo "Conversão Kilobytes = ".$kilo_bytes;
 
 ?>
